@@ -34,5 +34,5 @@
   background-color: #66cc72;
 }
 .toggle-switch input[type="checkbox"]:checked + .switch {
-  background-color: #15993a;
+  background-color: beige;
 }
