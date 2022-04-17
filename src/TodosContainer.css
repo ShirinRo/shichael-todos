@@ -1,0 +1,32 @@
+.add-todo-input {
+  display: flex;
+}
+
+.todos-list {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.todo-container {
+  display: flex;
+  align-items: center;
+  background-color: #649a72;
+  border-style: solid;
+  border-color: #ffffff;
+
+  border-radius: 10px;
+  padding: 5px;
+  margin: 4pt;
+}
+
+.todo-description-label {
+  display: flex;
+  justify-self: flex-start;
+}
+
+.todo-status-buttons {
+  display: flex;
+  margin-left: auto;
+  align-items: center;
+}
